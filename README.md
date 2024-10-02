@@ -14,9 +14,16 @@ como promgramador.
 * Nombre: [Emilio José Romero Almeida]
 * Ocupación: [Estudiante y Programador]
 * Lugar de residencia: [Samborondón]
-* Sitio web: [Tu sitio web]
+* Correo Institucional: [emjorome@espol.edu.ec]
 
 ## Proyectos
+
+Aquí hay una lista de algunos de mis proyectos destacados:
+
+1. **[Juego Millonario](enlace-al-proyecto-1)**
+   - **Descripción**: Breve descripción del proyecto, tecnologías utilizadas y funcionalidades.
+   - **Estado**: Terminado
+
 
 ## Tecnologías utilizadas
 
