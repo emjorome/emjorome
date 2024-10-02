@@ -29,6 +29,11 @@ Aquí hay una lista de algunos de mis proyectos destacados:
    - **Estado**: Terminado
 
 ## Tecnologías utilizadas
+<img src="https://www.python.org/community/logos/python-logo.png" alt="Python" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg" alt="Java" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/C_Logo.svg" alt="C" width="100" height="100">
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="100" height="100">
+<img src="https://git-scm.com/images/logos/git-logo.svg" alt="Git" width="100" height="100">
 
 ## Intereses
 
