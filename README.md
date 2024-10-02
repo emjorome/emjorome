@@ -39,8 +39,8 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 ## Intereses
 
 ## Objetivos Futuros
-1. **Objetivo General**: Mejorar constantemente en lenguajes de programación, herramientas y tecnologías relevantes.
-2. **Objetivos Específicos**:
-- Aprender más lenguajes de programación.
-- Participar en proyectos de desarrollo de software.
-- Desarrollar más proyectos personales.
+- **Objetivo General**: Mejorar constantemente en lenguajes de programación, herramientas y tecnologías relevantes.
+- **Objetivos Específicos**:
+1. Aprender más lenguajes de programación.
+2. Participar en proyectos de desarrollo de software.
+3. Desarrollar más proyectos personales.
