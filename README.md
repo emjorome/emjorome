@@ -20,7 +20,7 @@ como promgramador.
 
 Aquí hay una lista de algunos de mis proyectos destacados:
 
-1. **[Juego Millonario](enlace-al-proyecto-1)**
+1. **[Juego Millonario](https://github.com/Issac-Maza/POO-P3-G10-Parcial2.git)**
    - **Descripción**: Breve descripción del proyecto, tecnologías utilizadas y funcionalidades.
    - **Estado**: Terminado
 
