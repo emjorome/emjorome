@@ -29,11 +29,11 @@ Aquí hay una lista de algunos de mis proyectos destacados:
    - **Estado**: Terminado
 
 ## Tecnologías utilizadas
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="100" height="100">
+<img src="https://1000marcas.net/wp-content/uploads/2020/11/Python-logo.png" alt="Python" width="100" height="100">
 <img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" alt="Java" width="100" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/C_logo.svg" alt="C" width="100" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/en/8/8c/MySQL_logo_and_wordmark.svg" alt="MySQL" width="100" height="100">
-<img src="https://git-scm.com/downloads/logos" alt="Git" width="100" height="100">
+<img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program.png" alt="C" width="100" height="100">
+<img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="MySQL" width="100" height="100">
+<img src="https://1000marcas.net/wp-content/uploads/2021/06/Git-Logo.png" alt="Git" width="100" height="100">
 
 ## Intereses
 
