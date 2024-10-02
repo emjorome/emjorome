@@ -21,9 +21,12 @@ como programador.
 Aquí hay una lista de algunos de mis proyectos destacados:
 
 1. **[Juego Millonario](https://github.com/Issac-Maza/POO-P3-G10-Parcial2.git)**
-   - **Descripción**: Breve descripción del proyecto, tecnologías utilizadas y funcionalidades.
+   - **Descripción**: Juego de preguntas generales como el juego "Quien quiere ser millonario", utilizado principalmente con Java.
    - **Estado**: Terminado
 
+2. **[Tic Tac Toc](https://github.com/PieroPazmino/Grupo_11.git)**
+   - **Descripción**: Juego de tres enrayas con la posibilidad de jugar con una pseudo IA, utilizado principalmente con Java y arboles binarios.
+   - **Estado**: Terminado
 
 ## Tecnologías utilizadas
 
