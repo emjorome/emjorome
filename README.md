@@ -4,7 +4,7 @@ Este es mi sitio web personal, donde se podrá encontrar mi información, proyec
 como promgramador.
 
 ## Contenido
-- [Información personal] (#información-personal)
+* [Información personal] (#información-personal)
 - [Proyectos]
 - [Teconologías utilizadas]
 - [Intereses]
