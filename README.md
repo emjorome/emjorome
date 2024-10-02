@@ -14,6 +14,7 @@ como programador.
 * Nombre: [Emilio José Romero Almeida]()
 * Ocupación: [Estudiante y Programador]()
 * Lugar de residencia: [Samborondón]()
+* Sitio Web: [Repositorio](https://github.com/emjorome/emjorome.git)
 * Correo Institucional: [emjorome@espol.edu.ec]()
 
 ## Proyectos
@@ -38,3 +39,8 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 ## Intereses
 
 ## Objetivos Futuros
+**Objetivo General**: Mejorar constantemente en lenguajes de programación, herramientas y tecnologías relevantes.
+**Objetivos Específicos**:
+- Aprender más lenguajes de programación.
+- Participar en proyectos de desarrollo de software.
+- Desarrollar más proyectos personales.
