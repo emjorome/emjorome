@@ -11,6 +11,10 @@ como promgramador.
 * [Objetivos Futuros]
 
 ## Información personal
+* Nombre: [Emilio José Romero Almeida]
+* Ocupación: [Estudiante y Programador]
+* Lugar de residencia: [Samborondón]
+* Sitio web: [Tu sitio web]
 
 ## Proyectos
 
