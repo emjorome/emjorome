@@ -5,10 +5,10 @@ como promgramador.
 
 ## Contenido
 * [Información personal] (#información-personal)
-- [Proyectos]
-- [Teconologías utilizadas]
-- [Intereses]
-- [Objetivos Futuros]
+* [Proyectos]
+* [Teconologías utilizadas]
+* [Intereses]
+* [Objetivos Futuros]
 
 ## Información personal
 
