@@ -1,20 +1,20 @@
 # Bienvenidos a mi repositorio personal
 
 Este es mi sitio web personal, donde se podrá encontrar mi información, proyectos y experiencias
-como promgramador.
+como programador.
 
 ## Contenido
 * [Información personal](#información-personal)
-* [Proyectos]
-* [Teconologías utilizadas]
-* [Intereses]
-* [Objetivos Futuros]
+* [Proyectos](#proyectos)
+* [Teconologías utilizadas](#tecnologías-utilizadas)
+* [Intereses](#intereses)
+* [Objetivos Futuros](#objetivos-futuros)
 
 ## Información personal
-* Nombre: [Emilio José Romero Almeida]
-* Ocupación: [Estudiante y Programador]
-* Lugar de residencia: [Samborondón]
-* Correo Institucional: [emjorome@espol.edu.ec]
+* Nombre: [Emilio José Romero Almeida]()
+* Ocupación: [Estudiante y Programador]()
+* Lugar de residencia: [Samborondón]()
+* Correo Institucional: [emjorome@espol.edu.ec]()
 
 ## Proyectos
 
