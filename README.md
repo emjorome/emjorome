@@ -51,6 +51,10 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 **JavaScript**: Lenguaje esencial para el desarrollo web, especialmente en la creación de interfaces interactivas y dinámicas.
 
 ## Intereses
+* Desarrollo de Software: Me fascina crear soluciones a través de la programación, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.
+* Inteligencia Artificial y Machine Learning: Estoy interesado en el desarrollo de aplicaciones que utilicen IA y aprendizaje automático para resolver problemas complejos.
+* Seguridad Informática: Me interesa la ciberseguridad y aprender sobre las mejores prácticas para proteger aplicaciones y datos de los usuarios.
+* Programación de Videojuegos: Me interesa explorar el desarrollo de videojuegos, y las tendencias de uso de programas para desarrollar los videojuegos.
 
 ## Objetivos Futuros
 - **Objetivo General**: Mejorar constantemente en lenguajes de programación, herramientas y tecnologías relevantes.
