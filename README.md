@@ -1,4 +1,4 @@
-# Bienvenidos a mi repositorio personal
+# Bienvenidos a mi Repositorio Personal
 
 Este es mi sitio web personal, donde se podrá encontrar mi información, proyectos y experiencias
 como programador.
