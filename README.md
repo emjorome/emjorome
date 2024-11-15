@@ -30,11 +30,14 @@ Aquí hay una lista de algunos de mis proyectos destacados:
    - **Estado**: Terminado
 
 ## Tecnologías utilizadas
-<img src="https://1000marcas.net/wp-content/uploads/2020/11/Python-logo.png" alt="Python" width="150" height="100">
-<img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" alt="Java" width="100" height="100">
-<img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program.png" alt="C" width="100" height="100">
-<img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="MySQL" width="100" height="100">
-<img src="https://1000marcas.net/wp-content/uploads/2021/06/Git-Logo.png" alt="Git" width="100" height="100">
+<img src="https://www.svgrepo.com/show/452091/python.svg" height="200" width="200" id="python" alt="python">
+<img src="https://www.svgrepo.com/show/452234/java.svg" height="200" width="200" id="java" alt="java">
+<img src="https://www.svgrepo.com/show/452210/git.svg" height="200" width="200" id="git" alt="git">
+<img src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" height="200" width="200" id="mysql" alt="mysql">
+<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" height="200" width="200" id="c1" alt="c1">
+<img src="https://www.svgrepo.com/show/452185/css-3.svg" height="200" width="200" id="css1" alt="css1">
+<img src="https://www.svgrepo.com/show/452228/html-5.svg" height="200" width="200" id="html1" alt="html1">
+<img src="https://www.svgrepo.com/show/353925/javascript.svg" height="200" width="200" id="javascript" alt="javascript">
 
 ## Intereses
 
